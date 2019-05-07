@@ -9,7 +9,7 @@ typedef struct{
     char jobname[10];  //作业名
     int arrivetime;  //到达时间
     int runtime;     //需要运行时间
-    int starttime;  //开始时间SS
+    int starttime;  //开始时间SSS
     int finishtime;  //结束时间
     int zztime;  //周转时间
     float  dqzztime;  //带权周转时间
